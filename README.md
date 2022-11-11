@@ -2,4 +2,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukelubbe&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
